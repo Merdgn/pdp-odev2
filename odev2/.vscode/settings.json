@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "canli.h": "c",
+        "habitat.h": "c",
+        "bocek.h": "c",
+        "sinek.h": "c",
+        "math.h": "c"
+    }
+}
